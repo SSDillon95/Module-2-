@@ -1,0 +1,28 @@
+
+body {
+    background-color: rgb(213, 235, 242);
+       }
+
+#ball
+{
+z-index: 5;
+position: absolute;
+left: 0px;
+top: 200px;
+width: 100px;
+height: 100px;
+border-radius: 50%;
+background: blueviolet;
+}
+
+#ball1
+{
+z-index: 5;
+position: absolute;
+left: 100px;
+top: 200px;
+width: 50px;
+height: 50px;
+border-radius: 50%;
+background: plum;
+}
